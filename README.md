@@ -10,7 +10,7 @@ The following instructions will help you install the relevant software that will
 
 You have two options for installing and running the applied statistics notebooks. The primary option is to install everything on your laptop, using e.g. the anaconda environment with a standard set of python libraries. The second (backup) option is to run the code on [ERDA](https://erda.ku.dk), a KU-based server platform that has the advantage of having a uniform software environment for everyone. If you are not enrolled as a KU student and want to use this option, you should contact [Troels](mailto:petersen@nbi.dk) to get access to the ERDA servers.
 
-We recommend that you try __BOTH__ methods for the course. Running the exercices locally is very handy (essential?) when the internet connection is slow/dead or the ERDA servers are down (for maintenance or other reasons), and when you finish your studies and start one something new. But ERDA gives you a feel for how remote computing works, and allows you to suddenly go from 1 CPU to 100s. Trying both is simply our attempt at boosting your knowledge of computing.
+If you want, we recommend that you try both methods for the course. Running the exercices locally is very handy (essential?) when the internet connection is slow/dead or the ERDA servers are down (for maintenance or other reasons), and when you finish your studies and start one something new. But ERDA gives you a feel for how remote computing works, and allows you to suddenly go from 1 CPU to 100s. Trying both is simply our attempt at boosting your knowledge of computing.
 
 
 ---
