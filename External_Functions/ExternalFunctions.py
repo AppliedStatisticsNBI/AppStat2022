@@ -1,7 +1,7 @@
 # coding: utf-8
 
 #Author: Christian Michelsen, NBI, 2018
-
+#        Troels Petersen, NBI, 2019-22
 
 import numpy as np
 

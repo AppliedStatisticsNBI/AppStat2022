@@ -115,7 +115,7 @@ Once this is done, open the __Windows Explorer__ window, create a new folder whe
 </details>
 
 The previous steps opens a terminal window at the location you created. In that terminal window, type in the command:
-`git clone https://github.com/AppliedStatisticsNBI/AppStat2021.git .`
+`git clone https://github.com/AppliedStatisticsNBI/AppStat2022.git .`
 
 <details><summary>Click here for a picture</summary>
   <img src="../images/git_windows_gitterminal.png"/>
